@@ -1,5 +1,5 @@
 # Comparison-of-Anomaly-Detection-Approaches
-Experiments conducted for CS 6480 class project.
+Experiments conducted for CS 6490 class project.
 
 Prog.py is run to log system calls.
 
